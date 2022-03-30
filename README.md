@@ -29,10 +29,6 @@ FashionGen dataset: https://fashion-gen.com/ <br/>
 ## Dataset
 Rostamzadeh, N., Hosseini, S., Boquet, T., Stokowiec, W., Zhang, Y., Jauvin, C., Pal, C.: Fashion-Gen: The Generative Fashion Dataset and Challenge. arXiv preprint arXiv:1806.08317 (2018)
 
-## Bugs
-If you get the bug "can't convert cuda:0 device type tensor to numpy. Use Tensor.cpu() to copy the tensor to host memory first.",
-run the function "extract_embedding" once with line "print(img.is_cuda)" uncommented.
-
 ## Citation
 --------
 If you use our code for your research, please cite:
