@@ -7,6 +7,8 @@ IT University of Copenhagen & University of Copenhagen, Copenhagen, Denmark
 
 This repository contrains the code for the above mentioned paper. The project suggests to guide the generation of a P-GAN with a GMM via a genetic algorithm to generate images that correspond to fashion styles.
 
+![teaser](https://github.com/imkegrabe/fashionstyle-generation-GMM/blob/main/images/ev-model.png)
+
 ## Requirements
 
 Python 3.6.9 <br/> 
