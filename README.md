@@ -1,9 +1,9 @@
 # Fashion Style Generation: Evolutionary Search with Gaussian Mixture Models in the Latent Space <br>
-[Imke Grabe](mailto:imgr@itu.dk), [Jichen Zhu](https://drexel.edu/westphal/about/directory/ZhuJichen/), [Manex Agirrezabal](https://manexagirrezabal.github.io)
+[Imke Grabe](mailto:imgr@itu.dk)<sup>1</sup>, [Jichen Zhu](https://drexel.edu/westphal/about/directory/ZhuJichen/)<sup>1</sup>, [Manex Agirrezabal](https://manexagirrezabal.github.io)<sup>2</sup>
+
+<sup>1</sup>IT University of Copenhagen, Denmark, <sup>2</sup>University of Copenhagen, Denmark
 
 Code: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1rLI9bwRbu9H62Ca3fwSn9W0neuQ_X45M?usp=sharing)<br>
-
-IT University of Copenhagen & University of Copenhagen, Copenhagen, Denmark
 
 ## Description
 
