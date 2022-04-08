@@ -3,6 +3,7 @@
 
 <sup>1</sup>IT University of Copenhagen, Denmark, <sup>2</sup>University of Copenhagen, Denmark
 
+[ArXiv](http://arxiv.org/abs/2204.00592) | 
 Code: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1rLI9bwRbu9H62Ca3fwSn9W0neuQ_X45M?usp=sharing)<br>
 
 ## Description
